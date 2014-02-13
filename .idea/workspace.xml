@@ -41,7 +41,7 @@
           <file leaf-file-name="users.rb" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/models/users.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="13" column="62" selection-start="574" selection-end="574" vertical-scroll-proportion="0.021337127" vertical-offset="180" max-vertical-offset="945">
+                <state line="13" column="62" selection-start="574" selection-end="574" vertical-scroll-proportion="0.19203414" vertical-offset="60" max-vertical-offset="945">
                   <folding />
                 </state>
               </provider>
@@ -59,7 +59,7 @@
           <file leaf-file-name="users_test.rb" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/test/unit/users_test.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="69" column="29" selection-start="2118" selection-end="2118" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1410">
+                <state line="69" column="29" selection-start="2118" selection-end="2118" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="1410">
                   <folding />
                 </state>
               </provider>
@@ -616,13 +616,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/unit/users_test.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="29" selection-start="2118" selection-end="2118" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1410">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="38" column="19" selection-start="1146" selection-end="1146" vertical-scroll-proportion="0.8108108" vertical-offset="0" max-vertical-offset="840">
@@ -630,9 +623,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/unit/users_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="29" selection-start="2118" selection-end="2118" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1410">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/models/users.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="62" selection-start="574" selection-end="574" vertical-scroll-proportion="0.021337127" vertical-offset="180" max-vertical-offset="945">
+        <state line="13" column="62" selection-start="574" selection-end="574" vertical-scroll-proportion="0.19203414" vertical-offset="60" max-vertical-offset="945">
           <folding />
         </state>
       </provider>

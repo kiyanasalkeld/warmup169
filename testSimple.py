@@ -21,6 +21,7 @@ class TestUnit(testLib.RestTestCase):
             minimumTests = 4
         self.assertTrue(respData['totalTests'] >= minimumTests,
                         "at least "+str(minimumTests)+" unit tests. Found only "+str(respData['totalTests'])+". use SAMPLE_APP=1 if this is the sample app")
+        # 10 unit tests are in test/unit/users_test.rb
         self.assertEquals(0, respData['nrFailed'])
 
 
